@@ -69,7 +69,7 @@ I'm an AI Engineer passionate about building intelligent systems that solve real
 
 ## Featured Projects
 
-> 💡 *Replace these placeholders with your actual projects*
+> 
 
 ### 🤖 [AI Chatbot Platform](#)
 A production-ready conversational AI system built on top of LLMs with RAG architecture, memory management, and multi-turn dialogue support.
@@ -93,9 +93,7 @@ Scalable text classification system with experiment tracking, model versioning, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MoMahdi1&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoMahdi1&layout=compact&theme=default&hide_border=true" height="160" alt="Top Languages" />
+
 
 <br/>
 
