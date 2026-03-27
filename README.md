@@ -4,8 +4,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MoMahdi1" alt="MoMahdi1" /></a> </p>
 
-- 🔭 I'm currently working on **Building AI Chatbots and LLM-based applications
-Developing full-stack AI applications**
+🔭 I'm currently working on  
+- Building AI Chatbots  
+- LLM-based applications  
+- Full-stack AI systems  
 
 - 🌱 I'm currently learning **Advanced NLP and LLM applications
 LangGraph & agent-based systems**
