@@ -85,7 +85,7 @@ End-to-end document understanding pipeline leveraging open-source LLMs for summa
 
 ### 📊 [Multilingual-Text-Classification-System](https://github.com/MoMahdi1/Multilingual-Text-Classification-System)
 Scalable text classification system with experiment tracking, model versioning, and a REST API for inference.
-`PyTorch` `scikit-learn` `MLflow` `FastAPI`
+`TensorFlow` `scikit-learn` `FastAPI`
 
 ---
 
