@@ -77,13 +77,13 @@ A production-ready conversational AI system built on top of LLMs with RAG archit
 
 ---
 
-### 🧠 [LLM-Powered Document Analyzer](#)
+### 🧠 [Multiple-PDF-Chat-AI ](https://github.com/MoMahdi1/MoMahdi1-Multiple-PDF-Chat-AI)
 End-to-end document understanding pipeline leveraging open-source LLMs for summarization, Q&A, and information extraction.
 `HuggingFace` `LangChain` `Streamlit` `Ollama`
 
 ---
 
-### 📊 [NLP Classification Pipeline](#)
+### 📊 [Multilingual-Text-Classification-System](https://github.com/MoMahdi1/Multilingual-Text-Classification-System)
 Scalable text classification system with experiment tracking, model versioning, and a REST API for inference.
 `PyTorch` `scikit-learn` `MLflow` `FastAPI`
 
