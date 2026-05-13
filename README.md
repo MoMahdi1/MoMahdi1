@@ -71,7 +71,7 @@ I'm an AI Engineer passionate about building intelligent systems that solve real
 
 > 
 
-### 🤖 [Medical-Chatbot](#)
+### 🤖 [Medical-Chatbot](https://github.com/MoMahdi1/Medical-Chatbot)
 A production-ready conversational AI system built on top of LLMs with RAG architecture, memory management, and multi-turn dialogue support.
 `HuggingFace` `LangChain` `FastAPI` `Pinecone` `Docker`
 
