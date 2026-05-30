@@ -77,9 +77,10 @@ Built a Multi-Agent RAG-based Legal Research System for Egyptian Civil Law using
 
 ---
 
-### 🧠 [Multiple-PDF-Chat-AI ](https://github.com/MoMahdi1/MoMahdi1-Multiple-PDF-Chat-AI)
-End-to-end document understanding pipeline leveraging open-source LLMs for summarization, Q&A, and information extraction.
-`HuggingFace` `LangChain` `Streamlit` `Ollama`
+### 🧠 [Medical-Chatbot ](https://github.com/MoMahdi1/Medical-Chatbot)
+Built a Retrieval-Augmented Generation (RAG) based Medical Chatbot that provides context-aware medical responses by retrieving relevant information from a vector database and generating accurate answers using LLMs.
+
+`LangChain` `Pinecone` `RAG` `Vector Database` `Embeddings` `HuggingFace Transformers` `Google Gemini` `Flask` `Python` `Semantic Search` `LLM Integration`
 
 ---
 
