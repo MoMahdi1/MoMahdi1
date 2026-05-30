@@ -21,7 +21,7 @@ I'm an AI Engineer passionate about building intelligent systems that solve real
 - 🔭 Currently building **AI chatbots**, **LLM-based applications**, and **full-stack AI systems**
 - 🌱 Deepening expertise in **Advanced NLP**, **LangGraph**, and **agent-based architectures**
 - 🤝 Open to collaborating on **AI/ML projects**, **LLM applications**, and meaningful **open-source contributions**
-- 📄 [View my resume](https://drive.google.com/file/d/135rVSzhcMzG397FjoP7ttsmAQdoYmFjp/view?usp=sharing)
+# - 📄 [View my resume](https://drive.google.com/file/d/135rVSzhcMzG397FjoP7ttsmAQdoYmFjp/view?usp=sharing)
 - 📫 Reach me at **mmhdy121m@gmail.com**
 
 ---
