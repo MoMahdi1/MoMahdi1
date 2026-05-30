@@ -73,7 +73,7 @@ I'm an AI Engineer passionate about building intelligent systems that solve real
 
 ### 🤖 [Egyptian-Legal-Research-Agent](https://github.com/MoMahdi1/Egyptian-Legal-Research-Agent)
 Built a Multi-Agent RAG-based Legal Research System for Egyptian Civil Law using LangGraph with specialized agents for Orchestration, Retrieval, Web Search, Reranking, Critique, and Answer Generation.
-Python, LangGraph, LangChain, FastAPI, Docker, RAG, Multi-Agent Systems, Google Gemini, Groq, Tavily Search, Semantic Retrieval, Vector Search, Embeddings, intfloat/multilingual-e5-small, Cross-Encoder Reranking, cross-encoder/mmarco-mMiniLMv2-L12-H384-v1
+`LangGraph` `LangChain` `FastAPI` `Docker` `RAG` `Multi-Agent Systems` `Google Gemini` `Groq` `Tavily Search` `Semantic Retrieval` `Vector Search` `Embeddings` `intfloat/multilingual-e5-small` `Cross-Encoder Reranking` `cross-encoder/mmarco-mMiniLMv2-L12-H384-v1`
 ---
 
 ### 🧠 [Multiple-PDF-Chat-AI ](https://github.com/MoMahdi1/MoMahdi1-Multiple-PDF-Chat-AI)
