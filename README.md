@@ -21,7 +21,7 @@ I'm an AI Engineer passionate about building intelligent systems that solve real
 - 🔭 Currently building **AI chatbots**, **LLM-based applications**, and **full-stack AI systems**
 - 🌱 Deepening expertise in **Advanced NLP**, **LangGraph**, and **agent-based architectures**
 - 🤝 Open to collaborating on **AI/ML projects**, **LLM applications**, and meaningful **open-source contributions**
-- 📫 Reach me at **mmhdy121m@gmail.com**
+- 📫 Reach me at **mohammedelmahdi.ai@gmail.com**
 
 ---
 
