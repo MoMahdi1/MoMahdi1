@@ -77,10 +77,10 @@ Built a Multi-Agent RAG-based Legal Research System for Egyptian Civil Law using
 
 ---
 
-### 🧠 [Medical-Chatbot ](https://github.com/MoMahdi1/Medical-Chatbot)
-Built a Retrieval-Augmented Generation (RAG) based Medical Chatbot that provides context-aware medical responses by retrieving relevant information from a vector database and generating accurate answers using LLMs.
+### 🧠 [🤖 Personal RAG Chatbot](https://github.com/MoMahdi1/Personal-RAG-Chatbot-)
+A multilingual Retrieval-Augmented Generation (RAG) chatbot that allows users to upload their own documents and ask questions in natural language. The application retrieves the most relevant document chunks using FAISS semantic search and generates context-aware answers using Google Gemini with automatic fallback to Groq.
 
-`LangChain` `Pinecone` `RAG` `Vector Database` `Embeddings` `HuggingFace Transformers` `Google Gemini` `Flask` `Python` `Semantic Search` `LLM Integration`
+`LangChain` `FAISS` `RAG` `Vector Database` `Embeddings` `HuggingFace Transformers` `Google Gemini & Groq` `Streamlit` `Python` `Semantic Search` `LLM Integration`
 
 ---
 
