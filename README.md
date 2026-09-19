@@ -69,7 +69,7 @@ I'm an AI Engineer passionate about building intelligent systems that solve real
 
 >
 
-### ✈️  [Multi-Agent Travel Planner]
+### ✈️ Multi-Agent Travel Planner
 Live Demo : https://multi-agent-system-using-langgraph-mcp-superviso-production.up.railway.app/
 
 A production-oriented multi-agent travel planning system built with LangGraph and Model Context Protocol (MCP).
@@ -77,6 +77,7 @@ A production-oriented multi-agent travel planning system built with LangGraph an
 The system combines a Supervisor Agent, Input Guardrails, MCP-based tools, PostgreSQL state persistence, and Human-In-The-Loop (HITL) approval flows to create a structured, safe, and reviewable travel-planning workflow.
 
 `LangGraph`  `MCP`  `Supervisor`  `Guardrails`  `HITL`  `FastAPI`  `PostgreSQL` `Docker` `Google Gemini` `Groq` `Tavily Search` 
+---
 
 ### 🤖 [Egyptian-Legal-Research-Agent](https://github.com/MoMahdi1/Egyptian-Legal-Research-Agent)
 Built a Multi-Agent RAG-based Legal Research System for Egyptian Civil Law using LangGraph with specialized agents for Orchestration, Retrieval, Web Search, Reranking, Critique, and Answer Generation.
