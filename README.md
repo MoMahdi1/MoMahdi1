@@ -77,6 +77,7 @@ A production-oriented multi-agent travel planning system built with LangGraph an
 The system combines a Supervisor Agent, Input Guardrails, MCP-based tools, PostgreSQL state persistence, and Human-In-The-Loop (HITL) approval flows to create a structured, safe, and reviewable travel-planning workflow.
 
 `LangGraph`  `MCP`  `Supervisor`  `Guardrails`  `HITL`  `FastAPI`  `PostgreSQL` `Docker` `Google Gemini` `Groq` `Tavily Search` 
+
 ---
 
 ### 🤖 [Egyptian-Legal-Research-Agent](https://github.com/MoMahdi1/Egyptian-Legal-Research-Agent)
