@@ -67,10 +67,9 @@ I'm an AI Engineer passionate about building intelligent systems that solve real
 
 ## Featured Projects
 
->
-
 ### ✈️ [Safarni - Multi-Agent Travel Planner](https://github.com/MoMahdi1/-Multi-Agent-Travel-Planner)
-Live Demo : https://multi-agent-system-using-langgraph-mcp-superviso-production.up.railway.app/
+
+[🌐 Live Demo](https://multi-agent-system-using-langgraph-mcp-superviso-production.up.railway.app/)
 
 A production-oriented multi-agent travel planning system built with LangGraph and Model Context Protocol (MCP).
 
@@ -80,22 +79,52 @@ The system combines a Supervisor Agent, Input Guardrails, MCP-based tools, Postg
 
 ---
 
-### 🤖 [Egyptian-Legal-Research-Agent](https://github.com/MoMahdi1/Egyptian-Legal-Research-Agent)
-Built a Multi-Agent RAG-based Legal Research System for Egyptian Civil Law using LangGraph with specialized agents for Orchestration, Retrieval, Web Search, Reranking, Critique, and Answer Generation.
+### 🕌 [Mawlana (مولانا) - Quran Tafsir & Hadith AI Voice Assistant](https://github.com/MoMahdi1/Voice-Agent)
 
-`LangGraph` `LangChain` `FastAPI` `Docker` `RAG` `Multi-Agent Systems` `Google Gemini` `Groq` `Tavily Search` `Semantic Retrieval` `Vector Search` `Embeddings` `intfloat/multilingual-e5-small` `Cross-Encoder Reranking` `cross-encoder/mmarco-mMiniLMv2-L12-H384-v1`
+A multilingual voice and text RAG assistant that delivers grounded answers with source references from Quran Tafsir and Hadith. It combines semantic retrieval, cross-encoder reranking, speech recognition, LLM generation, and text-to-speech in one end-to-end application.
+
+`FastAPI` `RAG` `Qdrant` `Multilingual E5 Embeddings` `BGE Reranker` `Groq Whisper` `Google Gemini` `Edge TTS` `Python` `Voice AI`
 
 ---
 
-### 🧠 [🤖 Personal RAG Chatbot](https://github.com/MoMahdi1/Personal-RAG-Chatbot-)
+### 🧠 [Personal RAG Chatbot](https://github.com/MoMahdi1/Personal-RAG-Chatbot-)
+
+[🌐 Live Demo](https://wrmgxereagvyawpb6dffa7.streamlit.app/)
+
 A multilingual Retrieval-Augmented Generation (RAG) chatbot that allows users to upload their own documents and ask questions in natural language. The application retrieves the most relevant document chunks using FAISS semantic search and generates context-aware answers using Google Gemini with automatic fallback to Groq.
 
 `LangChain` `FAISS` `RAG` `Vector Database` `Embeddings` `HuggingFace Transformers` `Google Gemini & Groq` `Streamlit` `Python` `Semantic Search` `LLM Integration`
 
 ---
 
+### 🇪🇬 [Egyptian Legal Research Agent](https://github.com/MoMahdi1/Egyptian-Legal-Research-Agent)
+
+Built a Multi-Agent RAG-based legal research system for Egyptian Civil Law using LangGraph with specialized agents for orchestration, retrieval, web search, reranking, critique, and answer generation.
+
+`LangGraph` `LangChain` `FastAPI` `Docker` `RAG` `Multi-Agent Systems` `Google Gemini` `Groq` `Tavily Search` `ChromaDB` `Multilingual E5 Embeddings` `Cross-Encoder Reranking`
+
+---
+
+### 🐳 [LLM Fine-Tuning for Docker Command Generation](https://github.com/MoMahdi1/LLM-Fine-Tuning-using-DockerNLcommands-LoRA)
+
+Fine-tuned Qwen2.5-Coder-1.5B-Instruct with LoRA on a curated dataset to generate Docker CLI commands from natural-language requests. The supervised fine-tuning workflow was built in a Dockerized Linux environment and the resulting model was published on Hugging Face.
+
+`Qwen2.5-Coder-1.5B-Instruct` `LoRA` `QLoRA` `LlamaFactory` `Hugging Face` `Docker` `Python` `LLM Fine-Tuning`
+
+---
+
+### 🗃️ [Employee SQL Agent (Text2SQL)](https://github.com/MoMahdi1/Text2SQL)
+
+An end-to-end agent that converts plain-English or Arabic questions into safe, read-only MySQL queries. It inspects the live schema, generates structured SQL with Gemini, validates the query through an AST-based policy, executes it with a read-only database user, and shows the result and workflow steps in a responsive web interface.
+
+`LangGraph` `Google Gemini` `FastAPI` `SQLGlot` `MySQL` `Docker Compose` `Python` `HTML` `CSS` `JavaScript`
+
+---
+
 ### 📊 [Multilingual-Text-Classification-System](https://github.com/MoMahdi1/Multilingual-Text-Classification-System)
+
 Scalable text classification system with experiment tracking, model versioning, and a REST API for inference.
+
 `TensorFlow` `scikit-learn` `FastAPI`
 
 ---
